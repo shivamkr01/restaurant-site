@@ -1,0 +1,32 @@
+/* navigation bar  */
+#navbar{
+    flex-direction: column;
+    box-shadow: 1px 3px 1px rgb(135, 134, 134)
+}
+
+#navbar ul li {
+    margin: 0px 25px 0px 0px;
+}
+#navbar ul{
+    margin: 28px auto 0px 14px;
+    padding: 0px;
+}
+#home{
+    flex-direction: column;
+}
+#service{
+    flex-direction: column;
+    gap: 37px;
+}
+.service1{
+   flex-direction: column;
+    gap: 5px;
+    margin: 0 auto;
+}
+.grid {
+    margin: auto;
+    padding: 0 4px
+}
+footer{
+    flex-direction: column;
+}
